@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/55.27 -- Jan van Straaten" site="gatotv.com">
   <channels>
+    <channel update="i" site="gatotv.com" site_,id="star_channel" xmltv_id="star ¡Channel¡ TV">star ¡Channel¡ TV</channel>
     <channel update="i" site="gatotv.com" site_id="hola_tv" xmltv_id="Canal ¡Hola! TV">Canal ¡Hola! TV</channel>
     <channel update="i" site="gatotv.com" site_id="11_de_costa_rica" xmltv_id="Canal 11 de Costa Rica">Canal 11 de Costa Rica</channel>
     <channel update="i" site="gatotv.com" site_id="11_de_guatemala_teleonce" xmltv_id="Canal 11 de Guatemala (Teleonce)">Canal 11 de Guatemala (Teleonce)</channel>
@@ -304,22 +305,7 @@
     <channel update="i" site="gatotv.com" site_id="ultra_film" xmltv_id="Canal Ultra Film">Canal Ultra Film</channel>
     <channel update="i" site="gatotv.com" site_id="ultra_kidz" xmltv_id="Canal Ultra Kidz">Canal Ultra Kidz</channel>
     <channel update="i" site="gatotv.com" site_id="ultra_tainment" xmltv_id="Canal Ultra Tainment">Canal Ultra Tainment</channel>
-    <channel update="i" site="gatotv.com" site_id="una_voz_con_todos" xmltv_id="Canal Una Voz con Todos">Canal Una Voz con Todos</channel>
-    <channel update="i" site="gatotv.com" site_id="unicable" xmltv_id="Canal Unicable">Canal Unicable</channel>
-    <channel update="i" site="gatotv.com" site_id="universal_channel" xmltv_id="Canal Universal Channel">Canal Universal Channel</channel>
-    <channel update="i" site="gatotv.com" site_id="universal_hd" xmltv_id="Canal Universal Channel HD">Canal Universal Channel HD</channel>
-    <channel update="i" site="gatotv.com" site_id="univision_puerto_rico" xmltv_id="Canal Univision Puerto Rico">Canal Univision Puerto Rico</channel>
-    <channel update="i" site="gatotv.com" site_id="univision_tdn" xmltv_id="Canal Univisión TDN">Canal Univisión TDN</channel>
-    <channel update="i" site="gatotv.com" site_id="univision_tlnovelas" xmltv_id="Canal Univision TLNovelas">Canal Univision TLNovelas</channel>
-    <channel update="i" site="gatotv.com" site_id="vh1" xmltv_id="Canal VH1 (Latinoamérica)">Canal VH1 (Latinoamérica)</channel>
-    <channel update="i" site="gatotv.com" site_id="vh1_classic" xmltv_id="Canal VH1 Classic">Canal VH1 Classic</channel>
-    <channel update="i" site="gatotv.com" site_id="vh1_megahits_latinoamerica" xmltv_id="Canal VH1 MegaHits Latinoamérica">Canal VH1 MegaHits Latinoamérica</channel>
-    <channel update="i" site="gatotv.com" site_id="vibra_tv" xmltv_id="Canal Vibra TV">Canal Vibra TV</channel>
-    <channel update="i" site="gatotv.com" site_id="viendomovies" xmltv_id="Canal ViendoMovies">Canal ViendoMovies</channel>
-    <channel update="i" site="gatotv.com" site_id="vme_tv" xmltv_id="Canal Vme TV">Canal Vme TV</channel>
-    <channel update="i" site="gatotv.com" site_id="vtv_honduras_vica_tv" xmltv_id="Canal VTV Honduras (Vica TV)">Canal VTV Honduras (Vica TV)</channel>
-    <channel update="i" site="gatotv.com" site_id="wapa_2_deportes" xmltv_id="Canal WAPA 2 Deportes">Canal WAPA 2 Deportes</channel>
-    <channel update="i" site="gatotv.com" site_id="wapa_tv" xmltv_id="Canal WAPA-TV">Canal WAPA-TV</channel>
+
     <channel update="i" site="gatotv.com" site_id="warner_channel" xmltv_id="Canal Warner Channel (Latinoamérica)">Canal Warner Channel (Latinoamérica)</channel>
     <channel update="i" site="gatotv.com" site_id="warner_hd" xmltv_id="Canal Warner HD">Canal Warner HD</channel>
     <channel update="i" site="gatotv.com" site_id="wobi" xmltv_id="Canal WOBI">Canal WOBI</channel>
